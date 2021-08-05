@@ -1,1 +1,1 @@
-# Covid-Vaccination-Survey.com
+# Covid-Vaccination-Survey
